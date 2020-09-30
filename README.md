@@ -5,9 +5,9 @@
 
 
 ### 📅 **Day 1**:  
- - [ ]  📌 Question 1: *[Answer](https://github.com/salihacr)*
+ - [X]  📌 Question 1: *[Answer](https://github.com/salihacr)*
  
- - [ ] 📌 Question 2:
+ - [X] 📌 Question 2:
 
 - [ ] 📋  Article Translation:
 ---
