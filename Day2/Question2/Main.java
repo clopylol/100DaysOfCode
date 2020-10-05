@@ -20,7 +20,6 @@ public class Main {
         }
     }
 
-
     /*
 	    This function using for Celsius to Fahrenheit Conversion
         Formula = Celsius * 1.8 + 32 
@@ -31,7 +30,6 @@ public class Main {
         celToFah = ((temperature * 1.8) + 32);
         return celToFah;
     }
-
 
     /* 
         This function using for Fahrenheit to Celsius Conversion
