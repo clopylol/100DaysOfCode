@@ -9,7 +9,6 @@ public class Main {
         System.out.println("Select Your Choice \n > Celsius to Fahrenheit = 0 \n > Fahrenheit to Celsius = 1 ");
         double choice = sc.nextInt();
 
-
         if (choice == 0) {
             System.out.println("Transaction Successful ! \nTemperature is: " + celciusToFahrenheit(temperature) + " Fahrenheit");
 
@@ -19,12 +18,11 @@ public class Main {
         } else {
             System.out.println("Error: Pls Select 0 or 1 !");
         }
-
     }
 
 
     /*
-	    This function using for Celsius to Fahrenheit
+	    This function using for Celsius to Fahrenheit Conversion
         Formula = Celsius * 1.8 + 32 
     */
 
@@ -36,7 +34,7 @@ public class Main {
 
 
     /* 
-        This function using for Fahrenheit to Celsius
+        This function using for Fahrenheit to Celsius Conversion
         Formula = (Fahrenheit - 32) / 1.8 
     */
     
@@ -45,6 +43,4 @@ public class Main {
         fahToTem = ((temperature - 32) / 1.8);
         return fahToTem;
     }
-
-
 }
