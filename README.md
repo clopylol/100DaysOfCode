@@ -5,27 +5,50 @@
 
 
 ### 📅 **Day 1**:  
-- [X]  📌 Question 1: *[Answer](https://github.com/clopylol/100DaysOfCode/tree/master/Day1/Question1)*
+- [X]  📌 Number of Digits: *[Answer](https://github.com/clopylol/100DaysOfCode/tree/master/Day1/Question1)*
  
-- [X] 📌 Question 2: *[Answer](https://github.com/clopylol/100DaysOfCode/tree/master/Day1/Question2)*
+- [X] 📌 Hayyam Triangle: *[Answer](https://github.com/clopylol/100DaysOfCode/tree/master/Day1/Question2)*
 
 - [ ] 📋  Article Translation:
 ---
 
 ### 📅 **Day 2**:  
-- [X] 📌 Question 1: *[Answer](https://github.com/clopylol/100DaysOfCode/tree/master/Day2/Question1)*
+- [X] 📌 Sum Factors: *[Answer](https://github.com/clopylol/100DaysOfCode/tree/master/Day2/Question1)*
  
-- [X] 📌 Question 2: *[Answer](https://github.com/clopylol/100DaysOfCode/tree/master/Day2/Question2)*
+- [X] 📌 Temperature Conversion: *[Answer](https://github.com/clopylol/100DaysOfCode/tree/master/Day2/Question2)*
 
-- [X] 📌 Question 3: *[Answer](https://github.com/clopylol/100DaysOfCode/tree/master/Day2/Question3)*
+- [X] 📌 Craps Game: *[Answer](https://github.com/clopylol/100DaysOfCode/tree/master/Day2/Question3)*
 
-- [ ] 📋  Article Translation:
 ---
 
 ### 📅 **Day 3**:  
-- [X] 📌 Question 1: *[Answer](https://github.com/clopylol/100DaysOfCode/tree/master/Day3/Question1)*
+- [X] 📌 Angle Between Hour and Minute Hands: *[Answer](https://github.com/clopylol/100DaysOfCode/tree/master/Day3/Question1)*
  
-- [X] 📌 Question 2: *[Answer](https://github.com/clopylol/100DaysOfCode/tree/master/Day3/Question2)*
+- [X] 📌 Friendly Numbers: *[Answer](https://github.com/clopylol/100DaysOfCode/tree/master/Day3/Question2)*
 
-- [ ] 📋  Article Translation:
 ---
+
+### 📅 **Day 4**:  
+- [X] 📌 Prime Number Puzzle 1: 
+ 
+- [X] 📌 Prime Number Puzzle 2:
+
+- [X] 📌 Prime Number Puzzle 3:
+
+---
+
+### 📅 **Day 5**:  
+- [X] 📌 Is a Prime Number: 
+ 
+- [X] 📌 Sum of Digits :
+
+---
+
+### 📅 **Day 6**:  
+- [X] 📌 Array is Sequential: 
+ 
+- [X] 📌 Find the Mode of Array :
+
+---
+
+1. 
