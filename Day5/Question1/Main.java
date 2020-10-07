@@ -11,9 +11,9 @@ public class Main
 		System.out.print("Please enter number: ");
 		number = sc.nextInt();	
 	    state = isPrime(number);
-		
+
 	    if(state){
-	        System.out.print(number + " is a Prime !");
+	    	System.out.print(number + " is a Prime !");
 	    }
 	    else{
             System.out.print(number + " is a NOT Prime !");
@@ -34,7 +34,6 @@ public class Main
         }
         // is Prime !
         if(counter == 0){
-        
             return true;
         }
         // is Not Prime !
