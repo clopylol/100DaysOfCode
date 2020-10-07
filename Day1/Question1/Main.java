@@ -1,7 +1,6 @@
 public class Main
 {
-	public static void main(String[] args) {
-	    
+	public static void main(String[] args) {	    
 		System.out.println("Number of Digits: " + countDigit(1071));
 	}
 	
@@ -10,12 +9,12 @@ public class Main
     */
 	public static int countDigit(int num){
 	    int digitNumber = 1;
-        while(num > 1){
-        num = num / 10;
-        digitNumber++;
+        while(num >= 10){
+            num = num / 10;
+            digitNumber++;
         }
-        return digitNumber;
-        
+        digitNumber++;
+        return digitNumber;       
     }
 
 }
