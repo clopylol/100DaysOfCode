@@ -50,5 +50,3 @@
 - [ ] 📌 Find the Mode of Array :
 
 ---
-
-1. 
