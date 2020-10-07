@@ -38,9 +38,9 @@
 ---
 
 ### 📅 **Day 5**:  
-- [ ] 📌 Is a Prime Number: 
+- [X] 📌 Is a Prime Number: *[Answer](https://github.com/clopylol/100DaysOfCode/tree/master/Day5/Question1)*
  
-- [ ] 📌 Sum of Digits :
+- [X] 📌 Sum of Digits : *[Answer](https://github.com/clopylol/100DaysOfCode/tree/master/Day5/Question2)*
 
 ---
 
