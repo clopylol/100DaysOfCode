@@ -29,25 +29,25 @@
 ---
 
 ### 📅 **Day 4**:  
-- [X] 📌 Prime Number Puzzle 1: 
+- [ ] 📌 Prime Number Puzzle 1: 
  
-- [X] 📌 Prime Number Puzzle 2:
+- [ ] 📌 Prime Number Puzzle 2:
 
-- [X] 📌 Prime Number Puzzle 3:
+- [ ] 📌 Prime Number Puzzle 3:
 
 ---
 
 ### 📅 **Day 5**:  
-- [X] 📌 Is a Prime Number: 
+- [ ] 📌 Is a Prime Number: 
  
-- [X] 📌 Sum of Digits :
+- [ ] 📌 Sum of Digits :
 
 ---
 
 ### 📅 **Day 6**:  
-- [X] 📌 Array is Sequential: 
+- [ ] 📌 Array is Sequential: 
  
-- [X] 📌 Find the Mode of Array :
+- [ ] 📌 Find the Mode of Array :
 
 ---
 
