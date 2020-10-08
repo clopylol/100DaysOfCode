@@ -40,13 +40,20 @@
 ### 📅 **Day 5**:  
 - [X] 📌 Is a Prime Number: *[Answer](https://github.com/clopylol/100DaysOfCode/tree/master/Day5/Question1)*
  
-- [X] 📌 Sum of Digits : *[Answer](https://github.com/clopylol/100DaysOfCode/tree/master/Day5/Question2)*
+- [X] 📌 Sum of Digits: *[Answer](https://github.com/clopylol/100DaysOfCode/tree/master/Day5/Question2)*
 
 ---
 
 ### 📅 **Day 6**:  
-- [ ] 📌 Array is Sequential: 
+- [X] 📌 Array is Sequential: *[Answer](https://github.com/clopylol/100DaysOfCode/tree/master/Day6/Question1)*
  
-- [ ] 📌 Find the Mode of Array :
+- [X] 📌 Find the Mode of Array: *[Answer](https://github.com/clopylol/100DaysOfCode/tree/master/Day6/Question2)*
+
+---
+
+### 📅 **Day 7**:  
+- [ ] 📌 Find Second Largest Element in Array:  
+ 
+- [ ] 📌 Sorting odd and even numbers in the Array Separately:
 
 ---
