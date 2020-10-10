@@ -59,8 +59,15 @@
 ---
 
 ### 📅 **Day 8**:  
-- [ ] 📌 Calculation of Number (e): 
+- [X] 📌 Calculation of Number (e): *[Answer](https://github.com/clopylol/100DaysOfCode/tree/master/Day8/Question1)*
  
-- [ ] 📌 Four Digits Friendly Numbers:
+- [X] 📌 Four Digits Friendly Numbers: *[Answer](https://github.com/clopylol/100DaysOfCode/tree/master/Day8/Question2)*
+
+---
+
+### 📅 **Day 9**:  
+- [ ] 📌 Finding Closest Prime Number : 
+ 
+- [ ] 📌 Day of the Week:
 
 ---
