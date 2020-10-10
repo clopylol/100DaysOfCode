@@ -52,8 +52,15 @@
 ---
 
 ### 📅 **Day 7**:  
-- [ ] 📌 Find Second Largest Element in Array: *[Answer](https://github.com/clopylol/100DaysOfCode/tree/master/Day7/Question1)*
+- [X] 📌 Find Second Largest Element in Array: *[Answer](https://github.com/clopylol/100DaysOfCode/tree/master/Day7/Question1)*
  
-- [ ] 📌 Sorting odd and even numbers in the Array Separately:
+- [X] 📌 Sorting odd and even numbers in the Array Separately: *[Answer](https://github.com/clopylol/100DaysOfCode/tree/master/Day7/Question2)*
+
+---
+
+### 📅 **Day 8**:  
+- [ ] 📌 Calculation of Number (e): 
+ 
+- [ ] 📌 Four Digits Friendly Numbers:
 
 ---
