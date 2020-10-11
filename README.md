@@ -71,3 +71,11 @@
 - [X] 📌 Day of the Week: *[Answer](https://github.com/clopylol/100DaysOfCode/tree/master/Day9/Question2)*
 
 ---
+
+
+### 📅 **Day 10**:  
+- [ ] 📌 Finding Closest Prime Number : 
+ 
+- [X] 📌 Create Pyramid with Word: *[Answer](https://github.com/clopylol/100DaysOfCode/tree/master/Day10/Question2)*
+
+---
