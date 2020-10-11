@@ -72,7 +72,6 @@
 
 ---
 
-
 ### 📅 **Day 10**:  
 - [ ] 📌 Finding Closest Prime Number : 
  
