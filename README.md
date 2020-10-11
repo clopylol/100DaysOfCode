@@ -66,8 +66,8 @@
 ---
 
 ### 📅 **Day 9**:  
-- [ ] 📌 Finding Closest Prime Number : 
+- [X] 📌 Finding Closest Prime Number : *[Answer](https://github.com/clopylol/100DaysOfCode/tree/master/Day9/Question1)*
  
-- [ ] 📌 Day of the Week:
+- [X] 📌 Day of the Week: *[Answer](https://github.com/clopylol/100DaysOfCode/tree/master/Day9/Question2)*
 
 ---
