@@ -78,3 +78,17 @@
 - [X] 📌 Create Pyramid with Word: *[Answer](https://github.com/clopylol/100DaysOfCode/tree/master/Day10/Question2)*
 
 ---
+
+### 📅 **Day 11**:  
+- [X] 📌 Doors and Key Puzzle : *[Answer](https://github.com/clopylol/100DaysOfCode/tree/master/Day11/Question1)*
+ 
+- [X] 📌 Reverse String : *[Answer](https://github.com/clopylol/100DaysOfCode/tree/master/Day11/Question2)*
+
+---
+
+### 📅 **Day 12**:  
+- [ ] 📌 Mastermind Game : 
+ 
+- [ ] 📌 Harshad Numbers : 
+
+---
