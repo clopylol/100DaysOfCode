@@ -89,6 +89,11 @@
 ### 📅 **Day 12**:  
 - [ ] 📌 Mastermind Game : 
  
-- [ ] 📌 Harshad Numbers : 
+- [X] 📌 Harshad Numbers : *[Answer](https://github.com/clopylol/100DaysOfCode/tree/master/Day12/Question2)*
 
+---
+
+### 📅 **Day 13**:  
+- [ ] 📌 Is the Point Inside the Shapes? : 
+ 
 ---

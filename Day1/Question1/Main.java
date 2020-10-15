@@ -13,10 +13,8 @@ public class Main
             num = num / 10;
             digitNumber++;
         }
-        digitNumber++;
         return digitNumber;       
     }
-
 }
 
 
