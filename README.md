@@ -97,3 +97,8 @@
 - [ ] 📌 Is the Point Inside the Shapes? : 
  
 ---
+
+### 📅 **Day 14**:  
+- [X] 📌 Coin Toss Probability : *[Answer](https://github.com/clopylol/100DaysOfCode/tree/master/Day14)*
+ 
+---
