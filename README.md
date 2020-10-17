@@ -102,3 +102,10 @@
 - [X] 📌 Coin Toss Probability : *[Answer](https://github.com/clopylol/100DaysOfCode/tree/master/Day14)*
  
 ---
+
+### 📅 **Day 15**:  
+- [X] 📌 Common Digits : *[Answer](https://github.com/clopylol/100DaysOfCode/tree/master/Day15/Question1)*
+
+- [X] 📌 Find Greatest Common Divisor : *[Answer](https://github.com/clopylol/100DaysOfCode/tree/master/Day15/Question2)*
+
+---
