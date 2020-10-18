@@ -46,7 +46,6 @@ int digits(int num) {
     total += digit;
     num = (num / 10).toInt(); //num = (num ~/ 10);
   }
-
   print("$tempNum's Sum of digits = $total");
   return total;
 }
@@ -63,11 +62,8 @@ void isPrimeX(int num) {
   var isPrimeCheck = false;
   var flag = true;
 
-  var i = 0;
   while (flag) {
-    i++;
     isPrimeCheck = isPrime(num);
-    //Sayı Asalsa
     if (isPrimeCheck == true) {
       print('$num is a Prime.');
       if (num > 10) {
