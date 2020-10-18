@@ -109,3 +109,10 @@
 - [X] 📌 Find Greatest Common Divisor : *[Answer](https://github.com/clopylol/100DaysOfCode/tree/master/Day15/Question2)*
 
 ---
+
+### 📅 **Day 16**:  
+- [X] 📌 PrimeX : *[Answer](https://github.com/clopylol/100DaysOfCode/tree/master/Day16/Question1)*
+
+- [X] 📌 Find Least Common Multiple : *[Answer](https://github.com/clopylol/100DaysOfCode/tree/master/Day16/Question2)*
+
+---
