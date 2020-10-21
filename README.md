@@ -111,8 +111,22 @@
 ---
 
 ### 📅 **Day 16**:  
-- [X] 📌 PrimeX : *[Answer](https://github.com/clopylol/100DaysOfCode/tree/master/Day16/Question1)*
+- [X] 📌 PrimeX : *[Answer](https://github.com/clopylol/100DaysOfCode/tree/master/Day16/Question2)*
 
-- [X] 📌 Find Least Common Multiple : *[Answer](https://github.com/clopylol/100DaysOfCode/tree/master/Day16/Question2)*
+- [X] 📌 Find Least Common Multiple : *[Answer](https://github.com/clopylol/100DaysOfCode/tree/master/Day16/Question1)*
+
+---
+
+### 📅 **Day 17**:  
+- [X] 📌 Random Date : *[Answer](https://github.com/clopylol/100DaysOfCode/tree/master/Day17/Question1)*
+
+- [X] 📌 Lotto Coupon : *[Answer](https://github.com/clopylol/100DaysOfCode/tree/master/Day17/Question2)*
+
+---
+
+### 📅 **Day 18**:  
+- [X] 📌 Smith Numbers : *[Answer](https://github.com/clopylol/100DaysOfCode/tree/master/Day18/Question1)*
+
+- [X] 📌 Display Duration : *[Answer](https://github.com/clopylol/100DaysOfCode/tree/master/Day18/Question2)*
 
 ---
