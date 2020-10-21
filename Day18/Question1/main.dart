@@ -35,7 +35,7 @@ bool isPrime(int sayi) {
 /*
   This function using for Sum of Digits
 */
-int digit(int num) {
+int sumOfDigit(int num) {
   var printNum = num;
   var digit = 0;
   var total = 0;
@@ -79,7 +79,7 @@ List findDivisors(int num) {
 */
 void isSmith(int num) {
   if (isPrime(num) != true) {
-    var digitTotal = digit(num);
+    var digitTotal = sumOfDigit(num);
     print("$num's sum of digits => $digitTotal");
     var divisorsList = [];
     var divisorsTotal = 0;
@@ -89,7 +89,7 @@ void isSmith(int num) {
       if (divisorsList[i] < 10) {
         divisorsTotal += divisorsList[i];
       } else {
-        divisorsTotal += digit(divisorsList[i]);
+        divisorsTotal += sumOfDigit(divisorsList[i]);
       }
     }
     print("$num's sum of prime divisors => $divisorsTotal");
@@ -110,7 +110,7 @@ void isSmith(int num) {
 */
 bool isSmithForLoop(int num) {
   if (isPrime(num) != true) {
-    var digitTotal = digit(num);
+    var digitTotal = sumOfDigit(num);
     var divisorsList = [];
     var divisorsTotal = 0;
     divisorsList = findDivisors(num);
@@ -119,7 +119,7 @@ bool isSmithForLoop(int num) {
       if (divisorsList[i] < 10) {
         divisorsTotal += divisorsList[i];
       } else {
-        divisorsTotal += digit(divisorsList[i]);
+        divisorsTotal += sumOfDigit(divisorsList[i]);
       }
     }
 
