@@ -75,21 +75,21 @@
 ### 📅 **Day 10**:  
 - [ ] 📌 Finding Closest Prime Number : 
  
-- [X] 📌 Create Pyramid with Word: *[Answer](https://github.com/clopylol/100DaysOfCode/tree/master/Day10/Question2)*
+- [X] 📌 Create Pyramid with Word: *[Answer](https://github.com/clopylol/100DaysOfCode/tree/master/P2-Day10/Question2)*
 
 ---
 
 ### 📅 **Day 11**:  
-- [X] 📌 Doors and Key Puzzle : *[Answer](https://github.com/clopylol/100DaysOfCode/tree/master/Day11/Question1)*
+- [X] 📌 Doors and Key Puzzle : *[Answer](https://github.com/clopylol/100DaysOfCode/tree/master/P2-Day11/Question1)*
  
-- [X] 📌 Reverse String : *[Answer](https://github.com/clopylol/100DaysOfCode/tree/master/Day11/Question2)*
+- [X] 📌 Reverse String : *[Answer](https://github.com/clopylol/100DaysOfCode/tree/master/P2-Day11/Question2)*
 
 ---
 
 ### 📅 **Day 12**:  
 - [ ] 📌 Mastermind Game : 
  
-- [X] 📌 Harshad Numbers : *[Answer](https://github.com/clopylol/100DaysOfCode/tree/master/Day12/Question2)*
+- [X] 📌 Harshad Numbers : *[Answer](https://github.com/clopylol/100DaysOfCode/tree/master/P2-Day12/Question2)*
 
 ---
 
@@ -99,34 +99,41 @@
 ---
 
 ### 📅 **Day 14**:  
-- [X] 📌 Coin Toss Probability : *[Answer](https://github.com/clopylol/100DaysOfCode/tree/master/Day14)*
+- [X] 📌 Coin Toss Probability : *[Answer](https://github.com/clopylol/100DaysOfCode/tree/master/P2-Day14)*
  
 ---
 
 ### 📅 **Day 15**:  
-- [X] 📌 Common Digits : *[Answer](https://github.com/clopylol/100DaysOfCode/tree/master/Day15/Question1)*
+- [X] 📌 Common Digits : *[Answer](https://github.com/clopylol/100DaysOfCode/tree/master/P2-Day15/Question1)*
 
-- [X] 📌 Find Greatest Common Divisor : *[Answer](https://github.com/clopylol/100DaysOfCode/tree/master/Day15/Question2)*
+- [X] 📌 Find Greatest Common Divisor : *[Answer](https://github.com/clopylol/100DaysOfCode/tree/master/P2-Day15/Question2)*
 
 ---
 
 ### 📅 **Day 16**:  
-- [X] 📌 PrimeX : *[Answer](https://github.com/clopylol/100DaysOfCode/tree/master/Day16/Question2)*
+- [X] 📌 PrimeX : *[Answer](https://github.com/clopylol/100DaysOfCode/tree/master/P2-Day16/Question2)*
 
-- [X] 📌 Find Least Common Multiple : *[Answer](https://github.com/clopylol/100DaysOfCode/tree/master/Day16/Question1)*
+- [X] 📌 Find Least Common Multiple : *[Answer](https://github.com/clopylol/100DaysOfCode/tree/master/P2-Day16/Question1)*
 
 ---
 
 ### 📅 **Day 17**:  
-- [X] 📌 Random Date : *[Answer](https://github.com/clopylol/100DaysOfCode/tree/master/Day17/Question1)*
+- [X] 📌 Random Date : *[Answer](https://github.com/clopylol/100DaysOfCode/tree/master/P2-Day17/Question1)*
 
-- [X] 📌 Lotto Coupon : *[Answer](https://github.com/clopylol/100DaysOfCode/tree/master/Day17/Question2)*
+- [X] 📌 Lotto Coupon : *[Answer](https://github.com/clopylol/100DaysOfCode/tree/master/P2-Day17/Question2)*
 
 ---
 
 ### 📅 **Day 18**:  
-- [X] 📌 Smith Numbers : *[Answer](https://github.com/clopylol/100DaysOfCode/tree/master/Day18/Question1)*
+- [X] 📌 Smith Numbers : *[Answer](https://github.com/clopylol/100DaysOfCode/tree/master/P2-Day18/Question1)*
 
-- [X] 📌 Display Duration : *[Answer](https://github.com/clopylol/100DaysOfCode/tree/master/Day18/Question2)*
+- [X] 📌 Display Duration : *[Answer](https://github.com/clopylol/100DaysOfCode/tree/master/P2-Day18/Question2)*
+
+---
+
+### 📅 **Day 19**:  
+- [X] 📌 Decimal to Binary : *[Answer](https://github.com/clopylol/100DaysOfCode/tree/master/P2-Day19/Question1)*
+
+- [X] 📌 Reverse Number : *[Answer](https://github.com/clopylol/100DaysOfCode/tree/master/P2-Day19/Question2)*
 
 ---
