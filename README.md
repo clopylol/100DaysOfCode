@@ -137,3 +137,10 @@
 - [X] 📌 Reverse Number : *[Answer](https://github.com/clopylol/100DaysOfCode/tree/master/P2-Day19/Question2)*
 
 ---
+
+### 📅 **Day 20**:  
+- [X] 📌 Can Drawing a Triangle ? *[Answer](https://github.com/clopylol/100DaysOfCode/tree/master/P2-Day20/Question1)*
+
+- [ ] 📌 OOP Sample :
+
+---
