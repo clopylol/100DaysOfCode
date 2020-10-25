@@ -144,3 +144,9 @@
 - [ ] 📌 OOP Sample :
 
 ---
+### 📅 **Day 23**:  
+- [ ] 📌 Add Brackets to the Sentence :
+
+- [X] 📌 Ramanujuan Numbers : *[Answer](https://github.com/clopylol/100DaysOfCode/tree/master/P3-Day23/Question2)*
+
+---
