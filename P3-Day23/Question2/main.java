@@ -1,8 +1,8 @@
+public class Main
+{    
     public static void main(String[] args) {
-        for (int n = 1729; n < 10000; n++) {
-            if (isRamanujan(n) == true) {
-
-            }
+        for (int n = 1; n < 10000; n++) {
+            isRamanujan();
         }
     }
 
@@ -26,8 +26,7 @@
                     }
                     if (count == 1) {
                         temp[2] = a;
-                        temp[3] = b;
-                        
+                        temp[3] = b;            
                         System.out.println(n + " is a Ramajuan => " +temp[0] + "^3 + " + temp[1] + "^3 = " + temp[2] + "^3 +" + temp[3] + "^3");
                     }
                     count++;
@@ -36,3 +35,4 @@
         }
         return count == 2;
     }
+}
