@@ -144,28 +144,26 @@
 - [ ] 📌 OOP Sample :
 
 ---
-
 ### 📅 **Day 21**:  
-- [ ] 📌 Counter of Character : 
-
-- [ ] 📌 Remove Head and Tail Spaces :
-
----
-### 📅 **Day 22**:  
 - [ ] 📌 Remove of Character : 
 
 - [ ] 📌 Does the Sentence Continue :
 
 ---
-### 📅 **Day 23**:  
+### 📅 **Day 22**:  
 - [ ] 📌 Add Brackets to the Sentence :
 
-- [X] 📌 Ramanujuan Numbers : *[Answer](https://github.com/clopylol/100DaysOfCode/tree/master/P3-Day23/Question2)*
+- [X] 📌 Ramanujuan Numbers : *[Answer](https://github.com/clopylol/100DaysOfCode/tree/master/P3-Day22/Question2)*
+
+---
+
+### 📅 **Day 23**:  
+
+- [ ] 📌 Mersenne Numbers : *[Answer](https://github.com/clopylol/100DaysOfCode/tree/master/P3-Day23)*
 
 ---
 
 ### 📅 **Day 24**:  
-- [ ] 📌 Mersenne Numbers :
 
 - [ ] 📌 Luhn Algorithm : 
 
