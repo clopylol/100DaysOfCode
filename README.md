@@ -159,12 +159,18 @@
 
 ### 📅 **Day 23**:  
 
-- [ ] 📌 Mersenne Numbers : *[Answer](https://github.com/clopylol/100DaysOfCode/tree/master/P3-Day23)*
+- [X] 📌 Mersenne Numbers : *[Answer](https://github.com/clopylol/100DaysOfCode/tree/master/P3-Day23)*
 
 ---
 
 ### 📅 **Day 24**:  
 
-- [ ] 📌 Luhn Algorithm : 
+- [X] 📌 Luhn Algorithm : *[Answer](https://github.com/clopylol/100DaysOfCode/tree/master/P3-Day24)*
+
+---
+
+### 📅 **Day 25**:  
+
+- [ ] 📌 Cullen Numbers : 
 
 ---
