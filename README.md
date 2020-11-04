@@ -181,3 +181,8 @@
 
 ---
 
+### 📅 **Day 27**:  
+
+- [X] 📌 Bingo Game : *[Answer](https://github.com/clopylol/100DaysOfCode/tree/master/P3-Day27/main.dart)*
+
+---
