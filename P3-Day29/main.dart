@@ -2,6 +2,12 @@ import 'dart:io';
 import 'dart:math';
 
 void main() {
+  /*Example Output: 
+    Epoch Number: 100 
+    Win Number: 13 
+    Win Rate: 0.13 
+  */
+
   int epochNumber = 100;
   int winNumber = 0;
   int i = 0;
@@ -35,7 +41,7 @@ playBingo() {
   for (var i = 0; i < selectedCard.length; i++) {
     for (var j = 0; j < selectedNumbers.length; j++) {
       if (selectedCard[i] == selectedNumbers[j]) {
-        //print('${selectedCard[i]} == ${cekilenSayilar[y]}');
+        //print('${selectedCard[i]} == ${selectedNumbers[y]}');
         counter += 1;
       }
     }
@@ -75,7 +81,7 @@ List selectNumbers(List bag) {
     selectedNumbers.add(selectedNumber);
     i++;
   }
-  //print('Selected Numbers from the bag : $selectedNumbers');
+  //print('Selected Numbers from the Bag: $selectedNumbers');
   return selectedNumbers;
 }
 
@@ -117,6 +123,6 @@ List createCards() {
 List selectCard(List cards) {
   var rnd = Random();
   var selectedCard = rnd.nextInt(cards.length - 1);
-  //print("Selected Card ${cards[selectedCard]}");
+  //print("Selected Card: ${cards[selectedCard]}");
   return cards[selectedCard];
 }
