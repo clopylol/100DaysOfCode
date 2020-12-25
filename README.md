@@ -192,3 +192,9 @@
 - [X] 📌 Calender : *[Answer](https://github.com/clopylol/100DaysOfCode/tree/master/P3-Day28/calendar.java)*
 
 ---
+
+### 📅 **Day 29**:  
+
+- [X] 📌 Craps/Bingo Game Win Probability : *[Answer](https://github.com/clopylol/100DaysOfCode/tree/master/P3-Day29/main.dart)*
+
+---
