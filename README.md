@@ -195,6 +195,6 @@
 
 ### 📅 **Day 29**:  
 
-- [X] 📌 Craps/Bingo Game Win Probability : *[Answer](https://github.com/clopylol/100DaysOfCode/tree/master/P3-Day29/main.dart)*
+- [X] 📌 Craps/Bingo Game Win Probability : *[Answer](https://github.com/clopylol/100DaysOfCode/tree/master/P3-Day29/main.java)*
 
 ---
