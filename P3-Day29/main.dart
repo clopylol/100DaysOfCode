@@ -2,6 +2,8 @@ import 'dart:io';
 import 'dart:math';
 
 void main() {
+  print("--- Bingo Games ---");
+
   /*Example Output: 
     Epoch Number: 100 
     Win Number: 13 
