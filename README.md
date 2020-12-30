@@ -198,3 +198,15 @@
 - [X] 📌 Craps/Bingo Game Win Probability : *[Answer](https://github.com/clopylol/100DaysOfCode/tree/master/P3-Day29/main.java)*
 
 ---
+
+### 📅 **Day 30**:  
+
+- [X] 📌  Unique Elements of Array : *[Answer](https://github.com/clopylol/100DaysOfCode/tree/master/P4-Day30/main.java)*
+
+---
+
+### 📅 **Day 31**:  
+
+- [X] 📌  Find Mode and Frequency in Array : *[Answer](https://github.com/clopylol/100DaysOfCode/tree/master/P4-Day31/main.java)*
+
+---
