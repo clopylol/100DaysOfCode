@@ -201,12 +201,26 @@
 
 ### 📅 **Day 30**:  
 
-- [X] 📌  Unique Elements of Array : *[Answer](https://github.com/clopylol/100DaysOfCode/tree/master/P4-Day30/main.java)*
+- [X] 📌 Unique Elements of Array : *[Answer](https://github.com/clopylol/100DaysOfCode/tree/master/P4-Day30/main.java)*
 
 ---
 
 ### 📅 **Day 31**:  
 
-- [X] 📌  Find Mode and Frequency in Array : *[Answer](https://github.com/clopylol/100DaysOfCode/tree/master/P4-Day31/main.java)*
+- [X] 📌 Find Mode and Frequency in Array : *[Answer](https://github.com/clopylol/100DaysOfCode/tree/master/P4-Day31/main.java)*
 
 ---
+
+### 📅 **Day 32**:  
+
+- [X] 📌 Factorial-Permutation-Combinate : *[Answer](https://github.com/clopylol/100DaysOfCode/tree/master/P4-Day32/main.py)*
+
+---
+
+### 📅 **Day 33**:  
+
+- [X] 📌 Perfect Numbers : *[Answer](https://github.com/clopylol/100DaysOfCode/tree/master/P4-Day33/main.py)*
+
+---
+
+
